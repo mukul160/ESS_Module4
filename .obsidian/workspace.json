@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Memory at Runtime.md",
+                "file": "00. Module Objectives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Memory at Runtime"
+              "title": "00. Module Objectives"
             }
           },
           {
@@ -228,8 +228,8 @@
   },
   "active": "241dc969642520a5",
   "lastOpenFiles": [
-    "03. Memory Failures.md",
     "02. Memory at Runtime.md",
+    "03. Memory Failures.md",
     "00. Module Objectives.md",
     "01. Memory Architecture and Layout.md",
     "02. Memory at Runtime",
