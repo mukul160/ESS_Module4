@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Module Objectives.md",
+                "file": "03. Memory Failures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00. Module Objectives"
+              "title": "03. Memory Failures"
             }
           }
         ]
@@ -185,20 +185,20 @@
   },
   "active": "5b5664d1e006f5d7",
   "lastOpenFiles": [
-    "01. Memory Architecture and Layout.md",
     "02. Memory at Runtime.md",
+    "01. Memory Architecture and Layout.md",
+    "00. Module Objectives.md",
+    "Assets/8.jpg",
+    "Assets/7.jpg",
+    "Assets/6.jpg",
+    "Assets/4.jpg",
+    "Assets/3.jpg",
+    "Assets/1.jpg",
     "03. Memory Failures.md",
     "Assets/9.jpg",
     "Assets/8.png",
     "Assets/7.png",
     "Assets/6.png",
-    "Assets/Pasted image 20260121124357.png",
-    "Assets/Pasted image 20260121122304.png",
-    "Pasted image 20260121124357.png",
-    "Assets/5.png",
-    "Pasted image 20260121122304.png",
-    "Assets/5.jpg",
-    "00. Module Objectives.md",
     "02. Memory at Runtime",
     "Welcome.md",
     "Assets"
